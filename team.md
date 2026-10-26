@@ -8,9 +8,9 @@
 
 \- Student A: JHARED PORRAS - group2-gt - homepage
 
-\- Student B: JAMBEE CEJAR - cejarjambee35 - team profile
+\- Student B: GERONIMO JR. BULANDRA-  geronimobulandra  - team profile
 
-\- Student C: GERONIMO JR. BULANDRA - geronimobulandra - setup notes
+\- Student C: JAMBEE CEJAR - cejarjambee35 - setup notes
 
 \- Student D: RENALYN POLINIO - poliniorenalyn-13 - workflow guide
 
