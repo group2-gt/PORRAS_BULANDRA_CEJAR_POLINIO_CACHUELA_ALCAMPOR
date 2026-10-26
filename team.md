@@ -5,7 +5,6 @@
 \## Members
 
 
-
 \- Student A: JHARED PORRAS - group2-gt - homepage
 
 \- Student B: GERONIMO JR. BULANDRA-  geronimobulandra - team profile
