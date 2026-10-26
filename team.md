@@ -8,7 +8,7 @@
 
 \- Student A: JHARED PORRAS - group2-gt - homepage
 
-\- Student B: GERONIMO JR. BULANDRA-  geronimobulandra  - team profile
+\- Student B: GERONIMO JR. BULANDRA-  geronimobulandra - team profile
 
 \- Student C: JAMBEE CEJAR - cejarjambee35 - setup notes
 
